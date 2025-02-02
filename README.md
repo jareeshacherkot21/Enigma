@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+AUTOMATED PLANT WATERING SYSTEM 🎯
 
 
 ## Basic Details
